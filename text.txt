@@ -5,3 +5,5 @@ Changes in branch Feature
 2nd change, u guess it will be on head master branch
 
 Edit to master branch
+
+Conflict 2 on feature
